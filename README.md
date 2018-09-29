@@ -1,4 +1,4 @@
-# sc_property
+# sc_priority
 warning task.
 
 ---
